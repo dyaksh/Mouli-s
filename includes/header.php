@@ -45,7 +45,7 @@
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="index.php#hero" class="active">Home<br></a></li>
-          <li><a href="aboutus.php">About</a></li>
+          <li><a href="./aboutus.php">About</a></li>
           <li><a href="#vision-values">Vision & Values</a></li>
           <li><a href="#our-people">Our People</a></li>
           <li><a href="#awards">Awards</a></li>
